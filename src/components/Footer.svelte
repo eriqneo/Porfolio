@@ -2,8 +2,8 @@
   let src = "/up.png";
 </script>
 
-<footer class="text-center text-white bg-gray-900">
-  <div class="container px-6 pt-6">
+<footer class="text-center text-white">
+  <div class="container px-6 pt-6 p-0">
     <div class="flex justify-center mb-6">
       <a
         href="#!"
@@ -145,13 +145,10 @@
   <div class="text-center p-4 ">
     <small>
       © 2021-2022 Copyright:
-      <a class="text-whitehite" href="https://tailwind-elements.com/">
-        Erick Nyamwaya Atura</a
-      >
+      <a class="text-whitehite" href="#home"> Erick Nyamwaya Atura</a>
     </small>
   </div>
-  <a href="#home" class="flex flex-row justify-between animate-bounce">
-    <img {src} alt="up" class="w-12" />
-    <img {src} alt="up" class="w-12" />
+  <a href="#home" class="animate-bounce">
+    <img {src} alt="up" class="w-12 float-right animate-bounce" />
   </a>
 </footer>

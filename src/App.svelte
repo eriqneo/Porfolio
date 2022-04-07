@@ -5,7 +5,8 @@
   import Projects from "./components/Projects.svelte";
   import Services from "./components/Services.svelte";
   import Experience from "./components/Experience.svelte";
-  import Contact from "./Contact.svelte";
+  import Pricing from "./components/Pricing.svelte";
+  import Contact from "./components/Contact.svelte";
   import Footer from "./components/Footer.svelte";
 </script>
 
@@ -17,6 +18,7 @@
     <Projects />
     <Services />
     <Experience />
+    <Pricing />
     <Contact />
     <Footer />
   </div>

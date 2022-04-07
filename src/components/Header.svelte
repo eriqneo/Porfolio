@@ -45,14 +45,7 @@
                   About
                 </a>
               </li>
-              <li class="nav-item ">
-                <a
-                  class="px-3 py-2 flex items-center text-sm uppercase font-bold leading-snug text-green-400 hover:text-white"
-                  href="#experience"
-                >
-                  Process
-                </a>
-              </li>
+
               <li class="nav-item">
                 <a
                   class="px-3 py-2 flex items-center text-sm uppercase font-bold text-green-400 hover:text-white"
@@ -69,6 +62,23 @@
                   My Services
                 </a>
               </li>
+              <li class="nav-item ">
+                <a
+                  class="px-3 py-2 flex items-center text-sm uppercase font-bold leading-snug text-green-400 hover:text-white"
+                  href="#experience"
+                >
+                  Process
+                </a>
+              </li>
+              <li class="nav-item ">
+                <a
+                  class="px-3 py-2 flex items-center text-sm uppercase font-bold leading-snug text-green-400 hover:text-white"
+                  href="#pricing"
+                >
+                  Pricing
+                </a>
+              </li>
+
               <li class="nav-item">
                 <a
                   class="px-3 py-2 flex items-center text-sm uppercase font-bold leading-snug text-green-400 hover:text-white"

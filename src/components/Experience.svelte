@@ -46,8 +46,9 @@
                       <strong class="underline text-green-400"
                         >Accordance</strong
                       > <br />
-                      I then propose a quotation.Issues with pricing, price negotiation,how
-                      to pay, among other things that we shall iron out.
+                      I then propose a quotation.Issues with pricing, written contract,
+                      price negotiation,how to pay, among other things that we shall
+                      iron out.
                     </p>
                   </div>
                 </div>
