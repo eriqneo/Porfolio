@@ -1,4 +1,4 @@
-<section class="">
+<section class="" id="home">
   <div class="ml-24">
     <p class="text-green-400">Hallo, my name is</p>
     <p class="text-7xl font-bold ">Erick Atura.</p>

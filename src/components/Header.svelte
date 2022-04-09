@@ -7,11 +7,7 @@
   }
 </script>
 
-<section
-  id="home"
-  class="sticky top-0 z-50 h-28"
-  style="background-color:#1c0118 ;"
->
+<section class="sticky top-0 z-50 h-28" style="background-color:#1c0118;">
   <div class="flex flex-wrap py-2">
     <div class="w-full px-4 ">
       <nav
