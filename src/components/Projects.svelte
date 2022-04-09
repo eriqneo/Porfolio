@@ -4,7 +4,7 @@
   let pr3 = "/church.avif";
 </script>
 
-<section class="animate__fadeInUpBig ml-24 py-24" id="projects">
+<section class="ml-24 py-5" id="projects">
   <h3 class="text-3xl font-bold text-gray-200 py-10">
     My projects _________________
   </h3>

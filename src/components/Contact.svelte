@@ -13,11 +13,15 @@
       the world could see your business just by a visit to the web. <br />
       Feel free to ask any question and I will be in touch as soon as possible.😊
     </p>
-    <div class="pt-3 flex flex-row space-x-40 justify-items-center">
-      <img {src} alt="email" class="lg:w-2/5 hidden md:block" />
+    <div class="grid grid-cols-1 gap-1 md:grid-cols-2 pr-10 pt-3">
+      <img {src} alt="email" class="hidden md:block  w-5/6" />
 
-      <form action="https://formspree.io/f/moqrwdwb" method="POST">
-        <div>
+      <form
+        action="https://formspree.io/f/moqrwdwb"
+        method="POST"
+        class="w-full"
+      >
+        <div class="">
           <label for="fname" class="text-gray-200">First Name</label>
           <input
             type="text"

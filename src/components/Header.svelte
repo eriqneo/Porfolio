@@ -7,7 +7,11 @@
   }
 </script>
 
-<section id="home">
+<section
+  id="home"
+  class="sticky top-0 z-50 h-28"
+  style="background-color:#1c0118 ;"
+>
   <div class="flex flex-wrap py-2">
     <div class="w-full px-4 ">
       <nav
@@ -36,10 +40,12 @@
               ? 'flex'
               : 'hidden'}"
           >
-            <ul class="flex flex-col lg:flex-row list-none lg:ml-auto">
+            <ul
+              class="flex flex-col lg:flex-row list-none lg:ml-auto p-5 rounded bg-gray-900 md:bg-transparent"
+            >
               <li class="nav-item">
                 <a
-                  class="px-3 py-2 pl-96 flex items-center self-end text-sm uppercase font-bold leading-snug text-green-400 hover:text-white"
+                  class="px-0 md:px-3 py-2 flex items-center self-end text-sm uppercase font-bold leading-snug text-green-400 hover:text-white"
                   href="#about"
                 >
                   About
@@ -48,7 +54,7 @@
 
               <li class="nav-item">
                 <a
-                  class="px-3 py-2 flex items-center text-sm uppercase font-bold text-green-400 hover:text-white"
+                  class="px-0 md:px-3 py-2 flex items-center text-sm uppercase font-bold text-green-400 hover:text-white"
                   href="#projects"
                 >
                   Projects
@@ -56,15 +62,15 @@
               </li>
               <li class="nav-item">
                 <a
-                  class="px-3 py-2 flex items-center text-sm uppercase font-bold text-green-400 hover:text-white"
+                  class="px-0 md:px-3 py-2 flex items-center text-sm uppercase font-bold text-green-400 hover:text-white"
                   href="#services"
                 >
-                  My Services
+                  Services
                 </a>
               </li>
               <li class="nav-item ">
                 <a
-                  class="px-3 py-2 flex items-center text-sm uppercase font-bold leading-snug text-green-400 hover:text-white"
+                  class="px-0 md:px-3 py-2 flex items-center text-sm uppercase font-bold leading-snug text-green-400 hover:text-white"
                   href="#experience"
                 >
                   Process
@@ -72,7 +78,7 @@
               </li>
               <li class="nav-item ">
                 <a
-                  class="px-3 py-2 flex items-center text-sm uppercase font-bold leading-snug text-green-400 hover:text-white"
+                  class="px-0 md:px-3 py-2 flex items-center text-sm uppercase font-bold leading-snug text-green-400 hover:text-white"
                   href="#pricing"
                 >
                   Pricing
@@ -81,7 +87,7 @@
 
               <li class="nav-item">
                 <a
-                  class="px-3 py-2 flex items-center text-sm uppercase font-bold leading-snug text-green-400 hover:text-white"
+                  class="px-0 md:px-3 py-2 flex items-center text-sm uppercase font-bold leading-snug text-green-400 hover:text-white"
                   href="#contact"
                 >
                   Contact
