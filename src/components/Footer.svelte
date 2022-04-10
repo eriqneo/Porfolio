@@ -2,7 +2,7 @@
   let src = "/up.png";
 </script>
 
-<footer class="text-center text-white">
+<footer class="border-t-2 border-green-400 text-center text-white">
   <div class="container px-6 pt-6 p-0">
     <div class="flex justify-center mb-6">
       <a
